@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40501E;
+
+}
+
+/***************** Content *****************/
+.Start{
+
+  color: #68a7ca;
+font-family: 'Merienda', cursive;
+font-size: 2rem;
+margin-top: 20px auto 0 auto;
+line-height: 2;
+}
+.p1 {
+  color: #4390bc;
+  font-size: 20px;
+  font-family: 'Audiowide', cursive;
+  font-weight: normal;
+}
+h2{
+    color: #4390bc;
+font-family: 'Philosopher', sans-serif;
+}
+.skillh2{
+  margin-right: 2%;
+}
+h3{
+    color: #4390bc;
+font-family: 'Philosopher', sans-serif;
+
+}
+p{
+  font-family: 'Patrick Hand', cursive;
+    line-height: 2;
+    font-family: 'Tinos', serif;
+}
+
+hr{
+  border-style:dotted none none none;
+
+      height: 0;
+      width: 4%;
+      border-color: #DCDCDC;
+      border-width: 3px;
+
+
+}
+
+.intro{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  margin-bottom: 20px;
+font-family: 'Tinos', serif;
+}
+
+.anime-para{
+  width: 20%;
+  margin: 0 auto 0 auto;
+}
+
+.copyright{
+  color: white;
+  padding-top: 40px;
+
+}
+
+a{
+  color:#4390bc;
+    font-family: 'Patrick Hand', cursive;
+    margin: 25px 35px;
+    text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+/*********Division************************/
+.top-container {
+  background-color: #F5F5F5;
+  position: relative;
+  padding-top: 40px;
+  margin: 0 0 100px 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 60px auto 60px auto;
+
+}
+.profile{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.bottom-container{
+  background-color: #87ceeb;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding: 10px 0 10px;
+}
+
+/*********Images*******************/
+.top-cloud {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  right: 280px;
+}
+
+.bottom-cloud {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  left: 21%;
+  top: 12%;
+}
+
+.mountain {
+  width: 100%;
+  height: 100%;
+
+}
+
+.profile-pic{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+
+
+
+}
+
+
+.skill-pic{
+width: 30%;
+  float: left;
+  margin-right: 20px;
+
+}
+.anime{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 40px;
+
+}
+.giph2{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  float: right;
+
+
+}
+
+.giph1{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  float: right;
+
+}
+/******BUTTON************************/
+
+.btn {
+	background-color:#45c7c7;
+	-webkit-border-top-left-radius:23px;
+	-moz-border-radius-topleft:23px;
+	border-top-left-radius:23px;
+	-webkit-border-top-right-radius:23px;
+	-moz-border-radius-topright:23px;
+	border-top-right-radius:23px;
+	-webkit-border-bottom-right-radius:23px;
+	-moz-border-radius-bottomright:23px;
+	border-bottom-right-radius:23px;
+	-webkit-border-bottom-left-radius:23px;
+	-moz-border-radius-bottomleft:23px;
+	border-bottom-left-radius:23px;
+text-indent:0;
+	border:1px solid #19ab87;
+	display:inline-block;
+	color:#25afd9;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:123px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 1px #296666;
+}.btn:hover {
+	background-color:#118c9c;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
